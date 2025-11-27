@@ -67,4 +67,4 @@ To run this project locally, you'll need Node.js and npm (or yarn) installed on 
 
 
 ## Demo
-[demo/ss1.png]
+![demo](demo/ss1.png)
